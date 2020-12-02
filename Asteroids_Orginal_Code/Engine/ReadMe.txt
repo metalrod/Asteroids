@@ -38,3 +38,5 @@ AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+
+You must unzip EngineVC.zip first. Was to big for Git
